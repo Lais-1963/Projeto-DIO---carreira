@@ -1,0 +1,167 @@
+Perfeito! Vou montar agora um cronograma semanal detalhado, baseado no seu roadmap de 180 dias e na sua disponibilidade de 8h semanais.
+O cronograma está organizado em 36 semanas, com metas claras e práticas.
+
+?? CRONOGRAMA SEMANAL DETALHADO – 180 DIAS (8h/semana)
+Carga sugerida: 4 sessões de 2h por semana
+Formato: Seg ? Sex, mas você pode ajustar conforme sua rotina.
+
+?? SEMANAS 1–2 — Fundamentos da Web / HTML
+Semana 1
+* Aula + prática: estrutura HTML
+* Tags essenciais (div, p, h1–h6, a, img)
+* Criar página “Sobre Mim”
+Semana 2
+* Forms, inputs, tabelas
+* Acessibilidade básica
+* Miniprojeto: página de currículo em HTML
+
+?? SEMANAS 3–4 — CSS Básico
+Semana 3
+* Seletores, classes, IDs
+* Box model
+* Prática: estilizar seu currículo
+Semana 4
+* Flexbox + layouts
+* Responsividade
+* Miniprojeto: landing page simples
+
+?? SEMANAS 5–6 — JavaScript Básico
+Semana 5
+* Variáveis, funções, operadores, condicionais
+* Exercícios de lógica
+Semana 6
+* Arrays, loops, objetos
+* Manipulação de dados no console
+
+?? SEMANAS 7–8 — JavaScript + DOM
+Semana 7
+* DOM: querySelector, eventos
+* Prática: contador, modal, listas
+Semana 8
+* Manipulação avançada do DOM
+* Miniprojeto: Todo list simples
+
+?? SEMANAS 9–10 — Git e GitHub
+Semana 9
+* Introdução a Git: commit, branch, merge
+* Criar repositórios e publicar projetos
+Semana 10
+* GitHub Pages
+* Fluxo profissional (pull request básico)
+
+?? SEMANAS 11–12 — Projeto Front-End Inicial
+Semana 11
+* Planejamento + wireframe
+* Criar estrutura completa do site
+Semana 12
+* Finalizar front-end
+* Publicar no GitHub Pages
+
+?? SEMANAS 13–14 — Node.js
+Semana 13
+* Introdução ao Node
+* Módulos, npm, scripts
+Semana 14
+* Servidores com HTTP
+* MiniAPI simples
+
+?? SEMANAS 15–16 — Express.js
+Semana 15
+* Rotas, middlewares, JSON
+* Criar API CRUD básica
+Semana 16
+* Estruturar pastas
+* Testar rotas com Insomnia/Thunder
+
+?? SEMANAS 17–18 — Banco de Dados
+Semana 17
+* SQL ou NoSQL — conceitos
+* Conectar DB à API
+Semana 18
+* CRUD completo (create/read/update/delete)
+* Relacionamentos ou coleções
+
+?? SEMANAS 19–20 — Autenticação
+Semana 19
+* JWT, hashing, sessões
+* Login e registro de usuário
+Semana 20
+* Middlewares de autorização
+* Testes de segurança básicos
+
+?? SEMANAS 21–22 — Integração Front + Back
+Semana 21
+* Consumir API no front
+* Autenticação no front
+Semana 22
+* Estados, formulários, validação
+
+?? SEMANAS 23–24 — Deploy
+Semana 23
+* Deploy do back (Railway, Render)
+* Variáveis de ambiente
+Semana 24
+* Deploy do front (Vercel)
+* Testes finais em produção
+
+?? SEMANAS 25–26 — React Básico
+Semana 25
+* Componentes, props, state
+* JSX, hooks iniciais
+Semana 26
+* Rotas (React Router)
+* Consumo de API com fetch/axios
+
+?? SEMANAS 27–28 — React Intermediário
+Semana 27
+* Hooks avançados (useEffect, useContext)
+* Componentização
+Semana 28
+* Formulários complexos
+* Paginação e filtros
+
+?? SEMANAS 29–30 — PROJETO FINAL (Back-End)
+Semana 29
+* Criar API final do sistema Task Manager
+* Login, CRUD, validações
+Semana 30
+* Testes + documentação da API
+
+?? SEMANAS 31–32 — PROJETO FINAL (Front-End)
+Semana 31
+* Criar interface completa
+* Autenticação e proteção de rotas
+Semana 32
+* Integração total com o back-end
+
+?? SEMANAS 33–34 — Refino + Testes
+Semana 33
+* Melhorias de UI/UX
+* Responsividade total
+* SEO básico
+Semana 34
+* Testes de usabilidade
+* Últimos ajustes antes do deploy final
+
+?? SEMANAS 35–36 — Empregabilidade + Entrevistas
+Semana 35
+* Organizar GitHub
+* Criar README profissional
+* Criar portfólio + LinkedIn otimizado
+Semana 36
+* Simulados de entrevistas
+* Revisão geral de Full Stack
+* Checklist de empregabilidade
+
+?? O que você ganha seguindo esse cronograma?
+* Base sólida de front-end
+* API profissional
+* Projeto completo Full Stack
+* Portfólio pronto para recrutadores
+* Preparação real para entrevistas
+
+Se quiser, posso também gerar: ?? Versão imprimível (PDF)
+?? Checklist semana a semana
+?? Calendário integrado com Google Agenda
+Quer algum desses?
+
